@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 26 17:56:52 2019
 
-@author : Pravin
-"""
 
 # Importing necessary libraries
 import pandas as pd # importing pandas = > useful for creating dataframes
